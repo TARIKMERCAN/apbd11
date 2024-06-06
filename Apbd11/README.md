@@ -8,8 +8,8 @@ This project is a simple API for managing animals and visits in an animal clinic
 
 This project uses the following dependencies:
 
-- .NET 5.0
-- Entity Framework Core 5.0
+- .NET 7.0
+- Entity Framework Core 7.0
 - SQL Server
 
 ## How to Run
